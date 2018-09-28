@@ -1,1 +1,1 @@
-Instr
+My bot,it's bot which can write time before the end of lessons
