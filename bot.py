@@ -4,7 +4,7 @@ import telebot
 from telebot.types import Message
 
 
-TOKEN = "611944453:AAF2MVI5oEAle9i4yXs3qy9SMmmlpO1Jk4E"
+
 STICKER_ID_1 = "CAADAgADFQADPwy8FAc8vAe6BKBLAg"
 
 
